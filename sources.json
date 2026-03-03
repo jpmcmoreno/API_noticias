@@ -1,19 +1,26 @@
 {
   "ALTA": [
-    {"nombre": "El Tiempo",      "url": "https://www.eltiempo.com/ultimas-noticias",       "selector": "article a, h3 a, h2 a"},
-    {"nombre": "El Colombiano",  "url": "https://www.elcolombiano.com/ultimas-noticias",   "selector": "article a, h2 a, h3 a"},
-    {"nombre": "Semana",         "url": "https://www.semana.com/nacion/",                  "selector": "article a, h2 a, .story-card a"},
-    {"nombre": "La Republica",   "url": "https://www.larepublica.co/economia",             "selector": "article a, h2 a, h3 a"}
+    {"nombre": "Clarion Ledger",          "url": "https://www.clarionledger.com/",              "selector": "article a, h2 a, h3 a"},
+    {"nombre": "Noticialdia",             "url": "https://noticialdia.com/",                    "selector": "article a, h2 a, h3 a"},
+    {"nombre": "El Oriental de Monagas",  "url": "https://elorientaldemonagas.com/",            "selector": "article a, h2 a, h3 a"},
+    {"nombre": "El Caribe",               "url": "https://www.elcaribe.com.do/",                "selector": "article a, h2 a, h3 a"},
+    {"nombre": "Diario El Mundo SV",      "url": "https://diario.elmundo.sv/",                  "selector": "article a, h2 a, h3 a"},
+    {"nombre": "Zona Cero",               "url": "http://zonacero.com/",                        "selector": "article a, h2 a, h3 a"}
   ],
   "MEDIA": [
-    {"nombre": "El Espectador",  "url": "https://www.elespectador.com/ultimas-noticias/",  "selector": "article a, h2 a, h3 a"},
-    {"nombre": "Portafolio",     "url": "https://www.portafolio.co/economia",              "selector": "article a, h2 a"},
-    {"nombre": "Caracol Radio",  "url": "https://caracol.com.co/noticias/",                "selector": "article a, h2 a, h3 a"},
-    {"nombre": "RCN Radio",      "url": "https://www.rcnradio.com/colombia",               "selector": "article a, h2 a, h3 a"}
+    {"nombre": "Proceso México",          "url": "https://www.proceso.com.mx/",                 "selector": "article a, h2 a, h3 a"},
+    {"nombre": "The National News",       "url": "https://www.thenationalnews.com/international/", "selector": "article a, h2 a, h3 a"},
+    {"nombre": "Emisoras Unidas",         "url": "https://emisorasunidas.com/",                 "selector": "article a, h2 a, h3 a"},
+    {"nombre": "El Guardián CR",          "url": "https://elguardian.cr/",                      "selector": "article a, h2 a, h3 a"},
+    {"nombre": "La Página SV",            "url": "https://lapagina.com.sv/",                    "selector": "article a, h2 a, h3 a"},
+    {"nombre": "El Ciudadano",            "url": "https://www.elciudadano.com/justicia/",       "selector": "article a, h2 a, h3 a"}
   ],
   "BAJA": [
-    {"nombre": "Vanguardia",     "url": "https://www.vanguardia.com/colombia",             "selector": "article a, h2 a, h3 a"},
-    {"nombre": "El Heraldo",     "url": "https://www.elheraldo.co/colombia",               "selector": "article a, h2 a, h3 a"},
-    {"nombre": "El Pais Cali",   "url": "https://www.elpais.com.co/colombia",              "selector": "article a, h2 a, h3 a"}
+    {"nombre": "OCCRP",                   "url": "https://www.occrp.org/en",                    "selector": "article a, h2 a, h3 a"},
+    {"nombre": "El Mundo CR",             "url": "https://elmundo.cr/",                         "selector": "article a, h2 a, h3 a"},
+    {"nombre": "Publimetro Perú",         "url": "https://www.publimetro.pe/",                  "selector": "article a, h2 a, h3 a"},
+    {"nombre": "Chaski",                  "url": "https://chaski.pe/",                          "selector": "article a, h2 a, h3 a"},
+    {"nombre": "El Perfil PE",            "url": "https://elperfil.pe/",                        "selector": "article a, h2 a, h3 a"}
   ]
 }
+
