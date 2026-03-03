@@ -8,16 +8,4 @@ services:
       - key: PYTHON_VERSION
         value: 3.11.0
     healthCheckPath: /health
-```
 
----
-
-## 🚀 Pasos para desplegar en Render
-
-**1. Sube el código a GitHub** con esta estructura:
-```
-news_api/
-├── main.py
-├── sources.json
-├── requirements.txt
-└── render.yaml
