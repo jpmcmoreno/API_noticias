@@ -17,16 +17,3 @@
     {"nombre": "El Pais Cali",   "url": "https://www.elpais.com.co/colombia",              "selector": "article a, h2 a, h3 a"}
   ]
 }
-```
-
----
-
-### `requirements.txt`
-```
-fastapi==0.115.0
-uvicorn[standard]==0.30.6
-aiohttp==3.10.5
-beautifulsoup4==4.12.3
-lxml==5.2.2
-cachetools==5.5.0
-pydantic==2.8.2
